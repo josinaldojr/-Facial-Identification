@@ -1,10 +1,10 @@
-<h1 align=center>💻 Facial-Identification 😀 </h1>
+<h1 align=center>💻 Facial-Identification 😀 <br/> <div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+</div> </h1>
 
 >A script face identification.
-
-[![GitHub repo size][repo-size]][project-url]
-[![GitHub license][license]][license-url]
-[![GitHub stars][stars]][stargazers]
 
 This repository was created for computer vision studies and the [DevPleno](https://www.youtube.com/watch?v=KV7mZc3D93Y&feature=emb_title) channel tutorial was used to implement a JavaScript code using the library [tracking.js](https://trackingjs.com/) for identifying faces in the video.
 
